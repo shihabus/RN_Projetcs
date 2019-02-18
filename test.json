@@ -1,0 +1,35 @@
+{
+    "country": [
+        "India",
+        "Spain",
+        "US",
+        "Italy",
+        "Germany"
+    ],
+    "India": {
+        "Industries": [
+            "Hi-Tech",
+            "Aero Engines"
+        ],
+        "Hi-Tech": {
+            "services": [
+                "Design and Developenet",
+                "After Market Services"
+            ],
+            "Design and Developenet": [
+                {
+                    "Name": "Shihab",
+                    "Phone": "91",
+                    "Email": "s@quest-global.com",
+                    "Role": "TSL"
+                },
+                {
+                    "Name": "Akshat",
+                    "Phone": "91",
+                    "Email": "s@quest-global.com",
+                    "Role": "ISL"
+                }
+            ]
+        }
+    }
+}
